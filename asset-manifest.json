@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cricketnum.github.io/static/css/main.f14bb1ce.css",
+    "main.js": "/cricketnum.github.io/static/js/main.f26eaa8f.js",
+    "index.html": "/cricketnum.github.io/index.html",
+    "main.f14bb1ce.css.map": "/cricketnum.github.io/static/css/main.f14bb1ce.css.map",
+    "main.f26eaa8f.js.map": "/cricketnum.github.io/static/js/main.f26eaa8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f14bb1ce.css",
+    "static/js/main.f26eaa8f.js"
+  ]
+}
